@@ -1,0 +1,9 @@
+Flask
+opencv-python
+numpy
+mediapipe
+SpeechRecognition
+pyautogui
+pyperclip
+# Optional (may require platform-specific wheel):
+# pyaudio
